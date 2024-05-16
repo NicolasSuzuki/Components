@@ -1,0 +1,20 @@
+.button {
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-label {
+    color: #fff;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.button-label-icon {
+    color: #fff;
+
+}
